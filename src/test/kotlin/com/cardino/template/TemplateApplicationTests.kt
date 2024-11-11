@@ -10,4 +10,7 @@ class TemplateApplicationTests {
 	fun contextLoads() {
 	}
 
+	@Test
+	public void
+
 }
